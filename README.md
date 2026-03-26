@@ -1,4 +1,4 @@
-#Zenscii
+# Zenscii
 
 Convert images and videos to ASCII art in real time - right from terminal or with a GUI , a lightweight tool written in C++ with a qt-6 based gui. 
 
@@ -14,6 +14,6 @@ Convert images and videos to ASCII art in real time - right from terminal or wit
 
 ---
 
-##Installation (Arch Linux)
+## Installation (Arch Linux)
 ```bash
 yay -S zenscii
