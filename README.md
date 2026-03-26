@@ -60,6 +60,7 @@ Run:
 ## Usage
 
 **CLI:**
+
 IMG -> ASCII
 ```bash
 magick input.png ppm:- | zenscii --width 160 --color ansi24
