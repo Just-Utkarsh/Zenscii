@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Zenscii
+Comment=Convert images and videos to ASCII art
+Exec=zenscii-gui
+Icon=zenscii
+Terminal=false
+Type=Application
+Categories=Graphics;Utility;
