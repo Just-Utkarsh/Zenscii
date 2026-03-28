@@ -2,6 +2,10 @@
 
 Convert images and videos to ASCII art in real time - right from terminal or with a GUI , a lightweight tool written in C++ with a qt-6 based gui. 
 
+
+https://github.com/user-attachments/assets/c918495b-b8ca-4d70-b024-e8c8c90b95f0
+
+
 ---
 
 ## Features
